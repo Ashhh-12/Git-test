@@ -1,0 +1,25 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "package.json file\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dadding the package.json file",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashhh-12/Git-test.git"
+  },
+  "author": "Ashok Chhetri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashhh-12/Git-test/issues"
+  },
+  "homepage": "https://github.com/Ashhh-12/Git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
